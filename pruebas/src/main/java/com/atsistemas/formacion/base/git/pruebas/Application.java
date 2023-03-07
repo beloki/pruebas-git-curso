@@ -9,8 +9,23 @@ public class Application {
 		// funcionalidad x
 
 		
+		// Nuevo cambio
 		
 		//otro cambio que si quiero
 	}
 
+	
+	public void run() {
+		// no operativo
+		
+	}
+	
+	public void runOperativo() {
+		// operativo
+		
+	}
+	
+	
+	
+	
 }
